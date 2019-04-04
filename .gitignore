@@ -1,0 +1,14 @@
+*~
+build/
+*.flatpak
+app.gresource
+_install/
+_repo/
+_build/
+.flatpak-builder
+*/hatch_*/*
+*/node_modules/*
+manifest.json
+package-lock.json
+*/output.shard
+*/sets.shard
